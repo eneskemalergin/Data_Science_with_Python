@@ -1,0 +1,10 @@
+# Mac DStore
+.rvmrc
+.DS_Store
+
+# Notebook Checkpoint
+.ipynb_checkpoints/
+
+
+# Data Folder
+data/
