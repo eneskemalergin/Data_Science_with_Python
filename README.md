@@ -6,7 +6,20 @@
   - [What is Data Science](#what-is-data-science)
   - [What Skills to Know for Data Science](#what-skills-to-know-for-data-science)
 - [Sources](#sources)
-
+- [Python Basics](#python-basics)
+- [SciPy and Statistics](#scipy-and-statistics)
+- [NumPy and Linear Algebra](#numpy-and-linear-algebra)
+- [Pandas and Data Handling](#pandas-and-data-handling)
+- [Data Visualization](#data-visualization)
+  - [Matplotlib](#matplotlib)
+  - [Seaborn](#seaborn)
+  - [Bokeh](#bokeh)
+  - [Plotly](#plotly)
+- [Object Oriented Python](#object-oriented-python)
+- [Pymongo and NoSQL](#pymongo-and-nosql)
+- [PostgreSQl and SQL](#postgresql)
+- [Statmodels and Statistical Modelling](#statmodels-and-statistical-modelling)
+- [scikitlearn and Machine Learning](#scikitlearn-and-machine-learning)
 
 ## Introduction
 Data nowadays is produced more rapidly from labs, libraries, studios, etc. now then centuries combined before this time. In fact, according to studies 90 percent of the data we have now has been created in 2 years.[[1]](https://www.sciencedaily.com/releases/2013/05/130522085217.htm) This abundance of data gives us one of the biggest challenges and opportunities of the century to tackle, "We should somehow use and make sense out of this data." And the Data Science is alive...
@@ -80,6 +93,33 @@ You have to think like one...
 
 So data comes in all kind of shapes, and types. Wide range of formats, and wide range of sources yields to quite different types such as; collections of documents, collections of images, collections of sound clips, collections of numerical measurements. From all these heterogeneity, we use the data as numerical with NumPy arrays(most convenient).
 
+## Python Basics
+
+## SciPy and Statistics
+
+## NumPy and Linear Algebra
+
+## Pandas and Data Handling
+
+## Data Visualization
+
+### Matplotlib
+
+### Seaborn
+
+### Bokeh
+
+### Plotly
+
+## Object Oriented Python
+
+## PyMongo and NoSQL
+
+## PostgreSQL and SQL
+
+## Statmodels and Statistical Modelling
+
+## Scikitlearn and Machine Learning
 
 ## Sources
 
