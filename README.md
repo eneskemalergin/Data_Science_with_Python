@@ -22,7 +22,7 @@
 - [scikitlearn and Machine Learning](#scikitlearn-and-machine-learning)
 
 ## Introduction
-Data nowadays is produced more rapidly from labs, libraries, studios, etc. now then centuries combined before this time. In fact, according to studies 90 percent of the data we have now has been created in 2 years.[[1]](https://www.sciencedaily.com/releases/2013/05/130522085217.htm) This abundance of data gives us one of the biggest challenges and opportunities of the century to tackle, "We should somehow use and make sense out of this data." And the Data Science is alive...
+Data nowadays is produced more rapidly from labs, libraries, studios, etc. then centuries combined before this time. In fact, according to studies 90 percent of the data we have now has been created in 2 years.[[1]](https://www.sciencedaily.com/releases/2013/05/130522085217.htm) This abundance of data gives us one of the biggest challenges and opportunities of the century to tackle, "We should somehow use and make sense out of this data." And the Data Science is alive...
 
 ### What is Data Science?
 Data science is an interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms.[[2]](https://en.wikipedia.org/wiki/Data_science)
@@ -62,7 +62,8 @@ I will not have advanced implementations here but will put a link to another of 
 
 __4. Multivariable Calculus and Linear Algebra:__  
 
-Okay, I know it's a bit scary to say you have to know Math but don't worry about it. You just have to know Linear Algebra and a little bit of Calculus. In case if some asks you to derive a formula or approach from a model, you should be able to answer them. For Linear Algebra, it's really a life saver when it comes to vector/matrix computations, believe me, it will help you to keep your sanity... :)
+Okay, I know it's a bit scary to say you have to know Math but don't worry about it. You just have to know Linear Algebra and a little bit of Calculus. In case if some asks you to derive a formula or approach from a model, you should be able to answer them. For Linear Algebra, it's really a life saver when it comes to vector/matrix computations, believe me, it will help you to keep your sanity.
+
 
 __5. Data Munging :__
 
@@ -73,8 +74,8 @@ __6. Data Visualization and Communication:__
 Visualization is the part that you will show off your findings. Because of the representing factor you have to be able to produce understandable, beautiful, basic, and insightful plots. There are tons of different libraries outside that you can select from:
 
 - Matplotlib
-- ggplot
-- d3.js
+- ggplot (R/Python)
+- d3.js (JavaScript)
 - Seaborn
 - Plotly
 - Bokeh
@@ -91,13 +92,13 @@ You have to think like one...
 
 ---
 
-So data comes in all kind of shapes, and types. Wide range of formats, and wide range of sources yields to quite different types such as; collections of documents, collections of images, collections of sound clips, collections of numerical measurements. From all these heterogeneity, we use the data as numerical with NumPy arrays(most convenient).
-
 ## Python Basics
 
 ## SciPy and Statistics
 
 ## NumPy and Linear Algebra
+
+So data comes in all kind of shapes, and types. Wide range of formats, and wide range of sources yields to quite different types such as; collections of documents, collections of images, collections of sound clips, collections of numerical measurements. From all these heterogeneity, we use the data as numerical with NumPy arrays(most convenient).
 
 ## Pandas and Data Handling
 
