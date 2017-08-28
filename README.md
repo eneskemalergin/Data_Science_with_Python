@@ -7,8 +7,8 @@
   - [What Skills to Know for Data Science](#what-skills-to-know-for-data-science)
 - [Sources](#sources)
 - [Python Basics](#python-basics)
-- [SciPy and Statistics](#scipy-and-statistics)
 - [NumPy and Linear Algebra](#numpy-and-linear-algebra)
+- [SciPy and Statistics](#scipy-and-statistics)
 - [Pandas and Data Handling](#pandas-and-data-handling)
 - [Data Visualization](#data-visualization)
   - [Matplotlib](#matplotlib)
@@ -65,7 +65,7 @@ __4. Multivariable Calculus and Linear Algebra:__
 Okay, I know it's a bit scary to say you have to know Math but don't worry about it. You just have to know Linear Algebra and a little bit of Calculus. In case if some asks you to derive a formula or approach from a model, you should be able to answer them. For Linear Algebra, it's really a life saver when it comes to vector/matrix computations, believe me, it will help you to keep your sanity.
 
 
-__5. Data Munging :__
+__5. Data Munging:__
 
 It's the skill you will use a lot, I mean A LOT. The real life data has a lot of problems such as inconsistency, messy formats, missing values, etc. So get ready to spend most of your time to tidy up your data.
 
@@ -104,12 +104,11 @@ Python is a general-purpose programming language that is becoming more and more 
 - [07 - Modular Design of Python Libraries](Python_Basics/07_Modular_Design.ipynb)
 - [08 - Writing and Reading Files using Python](Python_Basics/08_Writing_Reading_Files.ipynb)
 
-
-## SciPy and Statistics
-
 ## NumPy and Linear Algebra
 
 So data comes in all kind of shapes, and types. Wide range of formats, and wide range of sources yields to quite different types such as; collections of documents, collections of images, collections of sound clips, collections of numerical measurements. From all these heterogeneity, we use the data as numerical with NumPy arrays(most convenient).
+
+## SciPy and Statistics
 
 ## Pandas and Data Handling
 
