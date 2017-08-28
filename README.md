@@ -93,6 +93,17 @@ You have to think like one...
 ---
 
 ## Python Basics
+Python is a general-purpose programming language that is becoming more and more popular for doing data science. That's why I am going to go with Python for this repository. In this section of the repo, I've added some very basic tutorials with exercises inside. The only thing you need to do is follow them through. They should give you the fundamentals of python programming, and get you ready for what's coming.
+
+- [01 - About Python](Python_Basics/01_About_Python.ipynb)
+- [02 - Setting Up Python Environment](Python_Basics/02_Setting_Up.ipynb)
+- [03 - Data and Expressions in Python](Python_Basics/03_Data_and_Expressions.ipynb)
+- [04 - Control Structures in Python](Python_Basics/04_Control_Structures.ipynb)
+- [05 - Sequences in Python](Python_Basics/05_Sequences.ipynb)
+- [06 - Functions in Python](Python_Basics/06_Functions.ipynb)
+- [07 - Modular Design of Python Libraries](Python_Basics/07_Modular_Design.ipynb)
+- [08 - Writing and Reading Files using Python](Python_Basics/08_Writing_Reading_Files.ipynb)
+
 
 ## SciPy and Statistics
 
