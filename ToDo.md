@@ -1,6 +1,6 @@
 ## To Do list for the Repo
 
-- [ ] Update README with Cumulative Data Science Information  
+- [X] Update README with Cumulative Data Science Information  
 - [ ] Add Python Data Structures, Data types, primer information
 - [ ] Add Information about Developing Python Programs
 - [ ] Add small intro information about the packages into README file

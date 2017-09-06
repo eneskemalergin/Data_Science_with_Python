@@ -43,7 +43,7 @@ Data science is an interdisciplinary field about scientific methods, processes, 
 
 __1. Basic Tools:__
 
-Whenever you go the statistical tools such as R and Python and data query language SQL or similar will be required. And as you see in the title of the repository I will be mainly working on **Python** for main language, and **PostgreSQl** or **MongoDB** for the data query language.
+Whenever you go, for the data science, statistical tools such as R and Python and data query language SQL or similar will be required. And as you see in the title of the repository I will be mainly working on **Python** for main scripting language, and **PostgreSQl** or **MongoDB** for the data query language.
 
 __2. Basic Statistics:__
 
@@ -87,7 +87,7 @@ This is obvious because at the end you will make a library/package or a workflow
 
 __8. Thinking like a Data Scientist:__
 
-You have to think like one...
+You have to think like one, I know this is a little ambiguous but there are some sources that might help you think like a Data Scientist ... |< add sources >|
 
 
 ---
@@ -106,7 +106,7 @@ Python is a general-purpose programming language that is becoming more and more 
 
 ## NumPy and Linear Algebra
 
-So data comes in all kind of shapes, and types. Wide range of formats, and wide range of sources yields to quite different types such as; collections of documents, collections of images, collections of sound clips, collections of numerical measurements. From all these heterogeneity, we use the data as numerical with NumPy arrays(most convenient).
+So data comes in all kind of shapes, and types. Wide range of formats, and wide range of sources yields to quite different types such as; collections of documents, collections of images, collections of sound clips, collections of numerical measurements. From all these heterogeneity, we use the data as numerical with NumPy arrays(most convenient). Numerical computation is very convenient and learning NumPy is -for me- the most important part of building a foundations for data science. Even though we will work with pandas, SciPy and others NumPy will always be the backbone of the structures either as vectors or n-dimensional arrays. So learning efficiently handling NumPy arrays is very very important.  
 
 ## SciPy and Statistics
 
